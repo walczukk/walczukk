@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋
+## Jestem administratorem IT z zajawką na pisanie skryptów automatyzujących w PowerShell
 
+# 🛠️ Moje narzędzia
+
+Tutaj wrzucam skrypty, które ratują mi życie w pracy:
+
+| Skrypt | Co to robi? |
+| :--- | :--- |
+| **[New-ADDesktops](https://github.com/walczukk/New-ADDesktops)** | Automat do masowego tworzenia komputerów w AD, wrzucania do grup i logowania procesu. |
+| **** | Pracuję nad kolejnymi automatami. |
 <!--
 **walczukk/walczukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
