@@ -1,5 +1,7 @@
 # 👋
 ## Jestem administratorem IT z zajawką na pisanie skryptów automatyzujących w PowerShell
+🙃 nie jestem programistą, nie znam się za bardzo na tym. umiem czytać i rozumiem (chyba) działanie skryptów które wpadają mi w ręce, ale nie pokładam w tym swoich umiejętności.
+to co tutaj znajdziesz to tylko proste skrypty które pomagają mi w codziennej pracy, są owocem mojej chęci do automatyzacji zadań (lub lenistwa)
 
 # 🛠️ Moje narzędzia
 
